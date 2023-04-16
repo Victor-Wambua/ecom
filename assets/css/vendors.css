@@ -24,7 +24,7 @@ html, body { height: 100%; color:#131313; background-color: #eef5f9;}
 .btn-green:hover {color:#ffffff;}
 .left-side ul li a i {display: inline-block;   font-size: 21px;   height: 27px;   vertical-align: middle;   width: 27px;}
 
-.navbar-blue { min-height: 70px; box-shadow: 5px 0 10px rgba(0, 0, 0, 0.5); z-index: 100; background-color: #1e88e5; border-radius: 0; color:#ffffff;}
+.navbar-blue { min-height: 70px; box-shadow: 6px 0 12px rgba(0, 0, 0, 0.5); z-index: 100; background-color: #1e88e5; border-radius: 0; color:#ffffff;}
 .navbar-blue li a {color:#ffffff; padding-top: 25px; padding-bottom: 25px;}
 .navbar-blue li a:hover {background-color: transparent;}
 

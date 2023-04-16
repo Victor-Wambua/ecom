@@ -4,7 +4,7 @@ Author     : Kiril Kirkov
 Gitgub     : https://github.com/kirilkirkov
 */
 html, body { height: 100%;}
-body { color:#6b6b6b; font-size: 13px; }
+body { color:#6b6b6b; font-size: 12px; }
 #wrapper { min-height: 100%; position: relative;}
 #content {padding-bottom:100px;}
 h1 {font-size:30px; }
